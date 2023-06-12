@@ -9,8 +9,8 @@ Mr. Ranedeerは、個々の生徒の学習スタイルに合わせた学びを�
 
 ## 使い方
 
-1. [Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の内容をコピーして、ChatGPTのチャットに貼り付ける。[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)をコピーするには、[ここ](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の画面右上のアイコンからファイルをダウンロードするか、コピーアイコンを押してください。
-2. その後は、Mr. Ranedeerの指示に従って学習スタイルの指定などを行ってください。例えば、`順を追って ユーモラス 友好的 因果的。レベル８でアメリカの歴史を学習したい。`というように指定します。
+1. [Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の内容をコピーして、ChatGPTのチャットに貼り付けてください。[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)をコピーするには、[ここ](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の画面右上のアイコンからファイルをダウンロードするか、コピーアイコンを押してください。プロンプトをマウスで範囲選択してコピーするとマークダウンの情報が失われてしまいますので、上記の方法でプロンプトをコピーしてください。
+2. ChatGPTにプロンプトを入力した後は、Mr. Ranedeerの指示に従って学習スタイルの指定などを行ってください。例えば、`順を追って ユーモラス 友好的 因果的。レベル８でアメリカの歴史を学習したい。`というように指定します。
 3. あとはそのままMr. Ranedeerとチャットしながら学習を進めるだけです。「〇〇について詳しく教えて」とか「それは現在の〇〇の元ネタなの？」といった質問にも柔軟に答えてくれます。Mr. Ranedeerは、生徒の興味のあるポイントを重点的に教えてくれます。彼は生徒の学習意欲を上げるのが上手です。質問が一通り終わって次の説明を聞きたい場合は`/continue`、これまでのチャットの内容に基づいたテストを受けたい場合は`/test`を入力してください。
 
 
