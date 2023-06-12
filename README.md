@@ -1,3 +1,29 @@
+
+# Mr. Ranedeer（日本語版）
+
+## このrepoについて
+
+Mr. Ranedeerは、個々の生徒の学習スタイルに合わせた学びを提供できるAI教師（チューター）です。歴史や哲学、科学といった幅広いトピックを対話形式で学習できます。Mr. Ranedeerは、GPT-4（プラグインなし）での使用が推奨されています。
+
+このrepoの[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)は、日本語話者がプロンプトをカスタマイズしやすいように[Mr_Ranedeer.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer.md)を日本語化したものです。本家のMr. Ranedeerのrepoは[こちら](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)です。最新版のMr. Ranedeerについては本家のrepoをご確認ください。このMr. Ranedeer（日本語版）は最新版ではない可能性がありますが、Mr. Ranedeerを使った自己学習やプロンプトエンジニアリングの練習にご活用ください。[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の日本語化は不完全ですが動作はします。
+
+## 使い方
+
+1. [Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の内容をコピーして、ChatGPTのチャットに貼り付ける。[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)をコピーするには、[ここ](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の画面右上のアイコンからファイルをダウンロードするか、コピーアイコンを押してください。
+2. その後は、Mr. Ranedeerの指示に従って学習スタイルの指定などを行ってください。例えば、`順を追って ユーモラス 友好的 因果的。レベル８でアメリカの歴史を学習したい。`というように指定します。
+3. あとはそのままMr. Ranedeerとチャットしながら学習を進めるだけです。「〇〇について詳しく教えて」とか「それは現在の〇〇の元ネタなの？」といった質問にも柔軟に答えてくれます。Mr. Ranedeerは、生徒の興味のあるポイントを重点的に教えてくれます。彼は生徒の学習意欲を上げるのが上手です。質問が一通り終わって次の説明を聞きたい場合は`/continue`、これまでのチャットの内容に基づいたテストを受けたい場合は`/test`を入力してください。
+
+
+## Tips
+- ChatGPTではGPT-4を選択してください。GPT-3.5ではMr. Ranedeerがうまく動作しない可能性があります。GPT-4は、現在ChatGPTの有料版 (Plus)ユーザーのみが利用可能です。
+- プラグインはオフにしておいた方がMr.Ranedeerが安定して動作します。
+- 私の個人的な印象では日本時間の夜間ではGPT-4がエラーを出す頻度が高いように思います（おそらく北米と欧州のユーザーが増えるため）。もしかしたら、Mr. Ranedeerを試すなら日本時間の昼間にした方がいいかもしれません。（学習途中で急に教師がいなくなるとモヤモヤしますから、、）
+
+## 謝辞
+Mr. Ranedeerという素晴らしいプロンプトを開発されたJushBJJ氏とコントリビューターの方々に心より感謝申し上げます。
+
+以下は本家の Mr. RanedeerのREADME.mdです。より詳しい説明は下記をご覧ください。
+
 # Mr. Ranedeer: Your personalized AI Tutor!
 
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
