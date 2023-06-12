@@ -2,7 +2,7 @@
 # Mr. Ranedeer（日本語版）
 
 ## このrepoについて
-このMr. Ranedeer（日本語版）は、オリジナルのMr. Ranedeerの作者であるJushBJJ氏の了承を得て、Mr. Ranedeerのプロンプトを日本語化したものです。
+このMr. Ranedeer（日本語版）は、オリジナルの[Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)の作者である[JushBJJ](https://github.com/JushBJJ)氏の了承を得て、Mr. Ranedeerのプロンプトを日本語化したものです。
 
 Mr. Ranedeerは、個々の生徒の学習スタイルに合わせた学びを提供できるAI教師（チューター）です。歴史や哲学、科学といった幅広いトピックを対話形式で学習できます。Mr. Ranedeerは、GPT-4（プラグインなし）での使用が推奨されています。
 
@@ -10,7 +10,7 @@ Mr. Ranedeerは、個々の生徒の学習スタイルに合わせた学びを�
 
 本家Mr. Ranedeerは、伊藤穰一氏の[動画](https://youtu.be/KVhqrE05WkA)で紹介されています。Mr. Ranedeerがどんなものか知りたい方はその動画をご覧ください。
 
-プロンプトエンジニアリングを効率よく学ぶには、Mr. Ranedeerなど、上手に作られたプロンプトを実際にいじってみることです。プロンプトエンジニアリングについての学習リソースもいくつかあります。いくつかリンクを挙げますのでご活用ください。
+プロンプトエンジニアリングを効率よく学ぶには、Mr. Ranedeerなど、上手に作られたプロンプトを実際にいじってみることが大切です。プロンプトエンジニアリングについての学習リソースもいくつかあります。リンクを挙げますのでご活用ください。
 
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
