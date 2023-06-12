@@ -7,6 +7,14 @@ Mr. Ranedeerは、個々の生徒の学習スタイルに合わせた学びを�
 
 このrepoの[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)は、日本語話者がプロンプトをカスタマイズしやすいように[Mr_Ranedeer.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer.md)を日本語化したものです。本家のMr. Ranedeerのrepoは[こちら](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)です。最新版のMr. Ranedeerについては本家のrepoをご確認ください。このMr. Ranedeer（日本語版）は最新版ではない可能性がありますが、Mr. Ranedeerを使った自己学習やプロンプトエンジニアリングの練習にご活用ください。[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の日本語化は不完全ですが動作はします。
 
+本家Mr. Ranedeerは、伊藤穰一氏の[動画](https://youtu.be/KVhqrE05WkA)で取り上げられています。プロンプトエンジニアリングを学習する方法はたくさんあります。いくつかリンクを挙げますのでご活用ください。
+
+- [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
+- [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+
+このMr. Ranedeer（日本語版）でプロンプトエンジニアリングに慣れた方は、[本家](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)やそのほかのプロジェクトに貢献をして頂けると嬉しいです。
+
 ## 使い方
 
 1. [Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の内容をコピーして、ChatGPTのチャットに貼り付けてください。[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)をコピーするには、[ここ](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の画面右上のアイコンからファイルをダウンロードするか、コピーアイコンを押してください。ブラウザ上に表示されたプロンプトをマウスで範囲選択してコピーするとマークダウンの情報が失われてしまいますので、上記の方法でプロンプトをコピーしてください。
@@ -18,12 +26,7 @@ Mr. Ranedeerは、個々の生徒の学習スタイルに合わせた学びを�
 - ChatGPTではGPT-4を選択してください。GPT-3.5ではMr. Ranedeerがうまく動作しない可能性があります。GPT-4は、現在ChatGPTの有料版 (Plus)ユーザーのみが利用可能です。
 - プラグインはオフにしておいた方がMr.Ranedeerが安定して動作します。
 - 私の個人的な印象では日本時間の夜間ではGPT-4がエラーを出す頻度が高いように思います（おそらく北米と欧州のユーザーが増えるため）。もしかしたら、Mr. Ranedeerを試すなら日本時間の昼間にした方がいいかもしれません。（学習途中で急に教師がいなくなるとモヤモヤしますから、、）
-- 本家Mr. Ranedeerは、伊藤穰一氏の[動画](https://youtu.be/KVhqrE05WkA)で取り上げられています。
-- プロンプトエンジニアリングを学習する方法はたくさんあります。いくつかリンクを挙げますのでご活用ください。
-  - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
-  - [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-  - [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
-- このMr. Ranedeer（日本語版）でプロンプトエンジニアリングに慣れた方は、[本家](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)やそのほかのプロジェクトに貢献をして頂けると嬉しいです。
+
 
 ## 免責事項
 - 本プロンプトの使用によって発生したいかなる損害についても私や本家のMr. Ranedeer開発者は責任を負いません。また、Mr. Ranedeerが提供する情報が正確である保証はありません。Mr. Ranedeerは、利用者ご自身の責任においてご利用ください。
