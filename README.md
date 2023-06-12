@@ -2,15 +2,18 @@
 # Mr. Ranedeer（日本語版）
 
 ## このrepoについて
+このMr. Ranedeer（日本語版）は、オリジナルのMr. Ranedeerの作者であるJushBJJ氏の了承を得て、Mr. Ranedeerのプロンプトを日本語化したものです。
 
 Mr. Ranedeerは、個々の生徒の学習スタイルに合わせた学びを提供できるAI教師（チューター）です。歴史や哲学、科学といった幅広いトピックを対話形式で学習できます。Mr. Ranedeerは、GPT-4（プラグインなし）での使用が推奨されています。
 
 このrepoの[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)は、日本語話者がプロンプトをカスタマイズしやすいように[Mr_Ranedeer.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer.md)を日本語化したものです。本家のMr. Ranedeerのrepoは[こちら](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)です。最新版のMr. Ranedeerについては本家のrepoをご確認ください。このMr. Ranedeer（日本語版）は最新版ではない可能性がありますが、Mr. Ranedeerを使った自己学習やプロンプトエンジニアリングの練習にご活用ください。[Mr_Ranedeer_JP.md](https://github.com/kmaeda16/Mr.-Ranedeer-AI-Tutor-Japanese/blob/main/Mr_Ranedeer_JP.md)の日本語化は不完全ですが動作はします。
 
-本家Mr. Ranedeerは、伊藤穰一氏の[動画](https://youtu.be/KVhqrE05WkA)で取り上げられています。プロンプトエンジニアリングを学習する方法はたくさんあります。いくつかリンクを挙げますのでご活用ください。
+本家Mr. Ranedeerは、伊藤穰一氏の[動画](https://youtu.be/KVhqrE05WkA)で紹介されています。Mr. Ranedeerがどんなものか知りたい方はその動画をご覧ください。
+
+プロンプトエンジニアリングを効率よく学ぶには、Mr. Ranedeerなど、上手に作られたプロンプトを実際にいじってみることです。プロンプトエンジニアリングについての学習リソースもいくつかあります。いくつかリンクを挙げますのでご活用ください。
 
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
-- [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 
 このMr. Ranedeer（日本語版）でプロンプトエンジニアリングに慣れた方は、[本家](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)やそのほかのプロジェクトに貢献をして頂けると嬉しいです。
