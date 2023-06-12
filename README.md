@@ -18,6 +18,12 @@ Mr. Ranedeerは、個々の生徒の学習スタイルに合わせた学びを�
 - ChatGPTではGPT-4を選択してください。GPT-3.5ではMr. Ranedeerがうまく動作しない可能性があります。GPT-4は、現在ChatGPTの有料版 (Plus)ユーザーのみが利用可能です。
 - プラグインはオフにしておいた方がMr.Ranedeerが安定して動作します。
 - 私の個人的な印象では日本時間の夜間ではGPT-4がエラーを出す頻度が高いように思います（おそらく北米と欧州のユーザーが増えるため）。もしかしたら、Mr. Ranedeerを試すなら日本時間の昼間にした方がいいかもしれません。（学習途中で急に教師がいなくなるとモヤモヤしますから、、）
+- このMr. Ranedeer（日本語版）でプロンプトエンジニアリングに慣れた方は、[本家](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)やそのほかのプロジェクトに貢献をして頂けると嬉しいです。
+- 本家Mr. Ranedeerは、伊藤穰一氏の[動画](https://youtu.be/KVhqrE05WkA)で取り上げられています。
+- プロンプトエンジニアリングを学習する方法はたくさんあります。いくつかリンクを挙げますのでご活用ください。
+  - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
+  - [DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+  - [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 
 ## 免責事項
 - 本プロンプトの使用によって発生したいかなる損害についても私や本家のMr. Ranedeer開発者は責任を負いません。また、Mr. Ranedeerが提供する情報が正確である保証はありません。Mr. Ranedeerは、利用者ご自身の責任においてご利用ください。
